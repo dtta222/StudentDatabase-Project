@@ -6,8 +6,11 @@ The StudentDatabase project is a Java application designed to manage student enr
 Students have the option to enroll in various courses, each costing $600. The application allows students to view their balance and pay tuition. The status of each student, including their name, ID, enrolled courses, and balance, can be displayed.
 
 # Tech Used:
+- IDE: IntelliJ
 - Java
 - Object-Oriented Design
+
+
 
 # Lessons Learned:
 - User Input Handling
