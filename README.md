@@ -10,12 +10,12 @@ Students have the option to enroll in various courses, each costing $600. The ap
 - Object-Oriented Design
 
 # Lessons Learned:
-User Input Handling: Gained experience in handling user input and validation, ensuring a smooth and error-free interaction with the application.
+- User Input Handling
 
-Object-Oriented Programming (OOP): Practiced OOP principles by designing a Student class to encapsulate properties and behaviors, promoting code modularity and reusability.
+- Object-Oriented Programming (OOP)
 
-Array Usage: Learned how to use arrays to store and manage multiple instances of the Student class efficiently.
+- Array Usage
 
-File Organization: Explored effective file organization and documentation practices, including creating separate classes for different functionalities and providing clear comments.
+- Basic User Interface
 
-Basic User Interface: Implemented a basic text-based user interface for interacting with the application.# StudentDatabase-Project
+- Git Version Control
